@@ -1,0 +1,71 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-07-28T09:31:01+03:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 45
+
+Apache Licensed: 45
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/pom.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/CLIReportingUtilsTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/MavenCliTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/CLIManagerDocumentationTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/transfer/FileSizeFormatTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/event/ExecutionEventLoggerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/java/org/apache/maven/cli/CleanArgumentTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/test/extensions/META-INF/plexus/components.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/examples/simple-project/settings.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/examples/simple-project/pom.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/examples/simple-project/src/test/java/org/apache/maven/embedder/AppTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/examples/simple-project/src/main/java/org/apache/maven/embedder/App.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/site/apt/index.apt.vm
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/site/apt/logging.apt
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/site/apt/cli.apt.vm
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/site/site.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/resources/META-INF/maven/slf4j-configuration.properties
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/slf4j/MavenSlf4jFriend.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/slf4j/impl/MavenSlf4jSimpleFriend.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/CLIReportingUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/configuration/SettingsXmlConfigurationProcessor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/configuration/ConfigurationProcessor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/CliRequest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/internal/BootstrapCoreExtensionManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/transfer/QuietMavenTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/transfer/Slf4jMavenTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/transfer/ConsoleMavenTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/transfer/BatchModeMavenTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/transfer/AbstractMavenTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/CleanArgument.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/CLIManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/event/DefaultEventSpyContext.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/UnsupportedSlf4jBindingConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/LogbackConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Log4j2Configuration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Slf4jSimpleConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jConfigurationFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jLoggerManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jStdoutLogger.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jLogger.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/BaseSlf4jConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-embedder/src/main/mdo/core-extensions.mdo
+ 
+*****************************************************

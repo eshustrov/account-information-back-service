@@ -1,0 +1,61 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-07-28T09:30:56+03:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 35
+
+Apache Licensed: 35
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/pom.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultModelResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReaderTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleRepositoryListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/AbstractRepositoryTestCase.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultVersionResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/MavenRepositorySystemUtilsTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RepositorySystemTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/site/apt/index.apt
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/site/site.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/SnapshotMetadataGeneratorFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadataGenerator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGeneratorFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenSnapshotMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorReaderDelegate.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGenerator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataGenerator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenResolverModule.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCache.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RelocatedArtifact.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenAetherModule.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenWorkspaceReader.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/package-info.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenRepositorySystemUtils.java
+ 
+*****************************************************

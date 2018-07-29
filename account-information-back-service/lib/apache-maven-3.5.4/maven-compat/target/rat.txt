@@ -1,0 +1,239 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-07-28T09:31:02+03:00
+
+Notes: 0
+Binaries: 0
+Archives: 1
+Standards: 208
+
+Apache Licensed: 208
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+Archives:
+
+ + /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/repository-system/maven-core-2.1.0.jar
+ 
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/pom.xml
+  A     /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/repository-system/maven-core-2.1.0.jar
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/DefaultMirrorSelectorTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/MirrorProcessorTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/WagonB.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/WagonMock.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/WagonC.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/DefaultUpdateCheckManagerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/StringWagon.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/LegacyRepositorySystemTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/PerLookupWagon.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/DefaultWagonManagerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/DefaultArtifactCollectorTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/conflict/AbstractConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/conflict/NewestConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/conflict/FarthestConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/conflict/OldestConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/resolver/conflict/NearestConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/legacy/WagonA.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/LegacyRepositorySystemTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/LegacyRepositoryLayout.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/metadata/DefaultGraphConflictResolutionPolicyTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/metadata/DefaultClasspathTransformationTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/metadata/TestMetadataSource.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/repository/metadata/DefaultGraphConflictResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/ProjectClasspathTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/EmptyLifecycleExecutor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/ClasspathArtifactResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/ModelUtilsTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/path/DefaultPathTranslatorTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/AbstractMavenProjectTestCase.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/LegacyLocalRepositoryManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/TestMavenRepositorySystem.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t11/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t10/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t03/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t04/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t05/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t02/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/AbstractProjectInheritanceTestCase.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t12/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t12scm/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t07/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t00/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t09/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t08/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t01/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/inheritance/t06/ProjectInheritanceTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/EmptyLifecyclePluginAnalyzer.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/TestProjectBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/project/TestArtifactResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/deployer/SimpleArtifactMetadataSource.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/deployer/ArtifactDeployerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/repository/MavenArtifactRepositoryTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/AbstractArtifactComponentTestCase.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/installer/ArtifactInstallerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/transform/TransformationManagerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/metadata/TestMetadataSource.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/factory/DefaultArtifactFactoryTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/testutils/TestFileManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/ArtifactResolverTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/TestTransferListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/TestFileWagon.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/ArtifactResolutionExceptionTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilterTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/filter/FilterHashEqualsTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/filter/ScopeArtifactFilterTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilterTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/test/java/org/apache/maven/profiles/manager/DefaultProfileManagerTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/site/apt/index.apt
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/site/site.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/resources/META-INF/maven/plugin-expressions/settings.paramdoc.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/resources/META-INF/maven/plugin-expressions/project.paramdoc.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/resources/META-INF/maven/plugin-expressions/rootless.paramdoc.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/resources/META-INF/maven/plugin.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/reporting/MavenReportException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/DefaultMirrorSelector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionResult.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MetadataGraph.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/UserLocalArtifactRepository.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/WagonManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/repository/DefaultArtifactRepositoryFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/repository/ArtifactRepositoryFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/TransferListenerAdapter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/ChecksumFailedException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/MavenArtifact.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/UpdateCheckManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/LegacyRepositorySystem.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/OldestConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/ConflictResolverFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/ConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/NearestConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/FarthestConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/NewestConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/ConflictResolverNotFoundException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/DefaultConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/conflict/DefaultConflictResolverFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/LegacyArtifactCollector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/AbstractVersionTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/LatestArtifactTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/SnapshotTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/ArtifactTransformationManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/ArtifactTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/DefaultArtifactTransformationManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/transform/ReleaseArtifactTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/WagonConfigurationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultUpdateCheckManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MirrorSelector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/VersionNotFoundException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MavenArtifactMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataSource.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataResolutionResult.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataGraphEdge.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataResolutionRequestTypeEnum.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/GraphConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataGraph.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/GraphConflictResolutionPolicy.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataGraphTransformationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/GraphConflictResolutionException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataRetrievalException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/DefaultGraphConflictResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/ClasspathTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataResolutionException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataGraphVertex.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/ClasspathContainer.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/DefaultGraphConflictResolutionPolicy.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataTreeNode.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/ArtifactMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataResolutionRequest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/MetadataResolution.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/metadata/DefaultClasspathTransformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionRequest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/repository/MetadataGraphNode.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/ProjectBuilderConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/InvalidProjectModelException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/ModelUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/inheritance/ModelInheritanceAssembler.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/MissingRepositoryElementException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/MavenProjectBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/ProjectUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/DefaultProjectBuilderConfiguration.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/ModelInterpolationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/BuildTimestampValueSource.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/ModelInterpolator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/StringSearchModelInterpolator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/AbstractStringBasedModelInterpolator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/interpolation/PathTranslatingPostProcessor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/validation/ModelValidator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/validation/DefaultModelValidator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/project/validation/ModelValidationResult.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/execution/RuntimeInformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/execution/DefaultRuntimeInformation.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/UnknownRepositoryLayoutException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/deployer/DefaultArtifactDeployer.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/deployer/ArtifactDeployer.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/deployer/ArtifactDeploymentException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/DefaultArtifactRepositoryFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/DefaultArtifactRepository.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/ArtifactRepositoryFactory.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/layout/FlatRepositoryLayout.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataReadException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/MetadataBridge.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/MetadataUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/GroupRepositoryMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/ArtifactStatus.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/ArtifactScopeEnum.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/manager/WagonManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/manager/WagonConfigurationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/versioning/ManagedVersionMap.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/installer/DefaultArtifactInstaller.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/installer/ArtifactInstallationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/installer/ArtifactInstaller.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/UnresolvedArtifacts.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/ArtifactCollector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/WarningResolutionListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/ResolutionListenerForDepMgmt.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/InversionArtifactFilter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/TypeArtifactFilter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/artifact/resolver/DebugResolutionListener.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/DefaultMavenProfilesBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/JdkPrefixProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/FileProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/DetectedProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/OperatingSystemProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/ProfileActivationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/activation/ProfileActivator.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/ProfilesConversionUtils.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/ProfileManager.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/profiles/MavenProfilesBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/usability/plugin/ExpressionDocumenter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/java/org/apache/maven/usability/plugin/ExpressionDocumentationException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/mdo/profiles.mdo
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-compat/src/main/mdo/paramdoc.mdo
+ 
+*****************************************************

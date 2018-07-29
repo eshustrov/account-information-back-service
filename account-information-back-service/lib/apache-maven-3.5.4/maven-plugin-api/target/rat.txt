@@ -1,0 +1,52 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-07-28T09:30:46+03:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 26
+
+Apache Licensed: 26
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/pom.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/test/java/org/apache/maven/plugin/lifecycle/LifecycleXpp3ReaderTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/test/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilderTest.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/site/apt/index.apt
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/site/site.xml
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoExecutionException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/ContextEnabled.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojoExecutionException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoNotFoundException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidParameterException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Parameter.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateMojoDescriptorException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptor.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Requirement.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateParameterException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilder.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidPluginDescriptorException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojo.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/Mojo.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/Log.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/SystemStreamLog.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoFailureException.java
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/mdo/lifecycle.mdo
+  AL    /Users/mike/Documents/project/apache-maven-3.5.4/maven-plugin-api/src/main/mdo/plugin.mdo
+ 
+*****************************************************
