@@ -1,0 +1,33 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://info.devtraining/account"
+           attributeFormDefault="qualified">
+    <xs:element name="OpenAccountRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Currency" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="OpenAccountResponce">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="AccountNumber" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="GetAccountBalanceRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="AccountNumber" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="GetAccountBalanceResponce">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Amount" type="xs:decimal"/>
+                <xs:element name="Currency" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

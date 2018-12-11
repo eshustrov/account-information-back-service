@@ -1,11 +1,11 @@
-package info.devtraining.accountinformationbackservice;
+package info.devtraining.account.service.back;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AccountInformationBackServiceApplication {
+public class Application {
     public static void main(final String... args) {
-        SpringApplication.run(AccountInformationBackServiceApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 }
